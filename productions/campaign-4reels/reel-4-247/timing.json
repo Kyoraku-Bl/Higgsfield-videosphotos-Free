@@ -1,0 +1,31 @@
+[
+  {
+    "start": 0.5,
+    "end": 4.268049886621315,
+    "text": "Your shop closes at six. Your website sells at 2 AM.",
+    "keywords": [
+      "2",
+      "AM.",
+      "closes"
+    ]
+  },
+  {
+    "start": 6.5,
+    "end": 7.770181405895691,
+    "text": "Orders while you sleep.",
+    "keywords": [
+      "Orders",
+      "sleep."
+    ]
+  },
+  {
+    "start": 12.5,
+    "end": 16.71628117913832,
+    "text": "Want your business online in 48 hours? DM SITE for a free mockup.",
+    "keywords": [
+      "48",
+      "SITE",
+      "mockup."
+    ]
+  }
+]

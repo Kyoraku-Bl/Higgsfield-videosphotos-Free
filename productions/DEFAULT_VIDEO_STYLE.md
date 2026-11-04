@@ -57,13 +57,19 @@ Reference production: `productions/sitely-cafe-18s/`.
 - Natural voices with room tone. Main character voice stays consistent across all shots.
 - Loudness target around −16 LUFS, true peak ≤ −1.5 dBTP.
 
-## 6. Text & captions
+## 6. Text, captions & mandatory branding
 
 - Bold Instagram Reels-style subtitles, animated word-by-word, bottom third.
 - Cream text with dark-green highlight on keywords.
 - Font: Montserrat ExtraBold/Black.
 - Hook card early, end card with CTA/brand line.
 - Default end-card style: short declarative brand promise, e.g. “Your website. Done for you.”
+- **Mandatory on every reel and cover:** the Sitely Studio logo + Instagram page name
+  **@sitely_studioo**. Use `productions/brand/sitely-logo.png` and
+  `productions/brand/sitely-badge.png`. Keep a small persistent brand badge in-frame (top-left, clear
+  of the hook card and captions) and put the logo + @sitely_studioo on the cover and end card.
+- **Default CTA:** DM **“SITE”** for a free mockup (matches the Instagram bio). Keep spoken CTA, end
+  card, cover and caption aligned.
 
 ## 7. Default deliverable package
 

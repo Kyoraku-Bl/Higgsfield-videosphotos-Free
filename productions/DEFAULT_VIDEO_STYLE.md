@@ -19,6 +19,10 @@ Reference production: `productions/sitely-cafe-18s/`.
 - **Integration:** the stylized character casts real soft shadows, receives real window light and
   color bounce, reflects in glass/screens, and matches footage grain, lens blur, depth of field and
   exposure. No illustrated backgrounds, no CGI city, no second stylized person.
+- **Reference sheet is HIDDEN:** the character sheet is a style reference ONLY. It must NEVER appear
+  inside any frame — no printed sheet, no paper in hand/pocket, no poster, no name tag, no stats
+  label, no text on clothing, no collage or multi-view panels. Always state this explicitly in the
+  prompt and negative prompt.
 
 ## 2. Performance
 
@@ -94,7 +98,9 @@ For each new video request, produce:
 ```
 illustrated background, cartoon environment, CGI city, extra stylized characters, identity drift,
 face morphing, foot sliding, floating feet, stiff robotic motion, cartoonish physics, lip-sync drift,
-dead eyes, text artifacts, gibberish signage, watermark, logo, slow motion, music, soundtrack
+dead eyes, text artifacts, gibberish signage, watermark, logo, slow motion, music, soundtrack,
+character sheet, reference sheet, printed sheet, paper in hand, paper in pocket, poster, name tag,
+stats label, text on clothing, collage, multiple character views, turnaround panels
 ```
 
 ## 9. Override rule

@@ -19,8 +19,12 @@ shallow bokeh, subtle grain. Warm light, palette black/cream/dark green. Real st
 ```
 illustrated background, cartoon environment, CGI city, extra stylized characters, identity drift,
 face morphing, foot sliding, floating feet, stiff robotic motion, lip-sync drift, dead eyes, text
-artifacts, gibberish signage, watermark, logo, slow motion, music, soundtrack
+artifacts, gibberish signage, watermark, logo, slow motion, music, soundtrack, character sheet,
+reference sheet, printed sheet, paper in hand, paper in pocket, poster, name tag, stats label, text on
+clothing, collage, multiple character views, turnaround panels
 ```
+
+> The character sheet is a HIDDEN style reference only — it must never appear inside any frame.
 
 ## SHOT 1 · HOOK (0–3) — `keyframes/shot1-hook.png`
 Tracking follow: teen walks fast down the aisle between clothing racks, dodges a real customer,

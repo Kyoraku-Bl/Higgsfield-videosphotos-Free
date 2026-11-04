@@ -1,0 +1,79 @@
+[
+  {
+    "file": "reda-01-hook.wav",
+    "start": 0.5,
+    "end": 4.116916099773243,
+    "tempo": 1.35,
+    "text": "Great clothes... but online, nobody knows you exist.",
+    "keywords": [
+      "exist.",
+      "nobody"
+    ]
+  },
+  {
+    "file": "reda-02-48h.wav",
+    "start": 4.196916099773243,
+    "end": 5.303310657596372,
+    "tempo": 1.2610903260288622,
+    "text": "Give me 48 hours.",
+    "keywords": [
+      "48",
+      "hours."
+    ]
+  },
+  {
+    "file": "owner-01-afford.wav",
+    "start": 5.4,
+    "end": 7.500385487528344,
+    "tempo": 1.2199006586761691,
+    "text": "A website? I can't afford that.",
+    "keywords": [
+      "afford"
+    ]
+  },
+  {
+    "file": "owner-02-my-clothes.wav",
+    "start": 7.6,
+    "end": 9.206122448979592,
+    "tempo": 1.3,
+    "text": "Wait... those are my clothes?",
+    "keywords": [
+      "clothes?",
+      "my"
+    ]
+  },
+  {
+    "file": "reda-03-voiceover.wav",
+    "start": 9.286122448979592,
+    "end": 12.207120181405896,
+    "tempo": 1.1282625951347065,
+    "text": "A clean online store, and sales start coming to you.",
+    "keywords": [
+      "online",
+      "sales",
+      "store,"
+    ]
+  },
+  {
+    "file": "customer-thanks.wav",
+    "start": 12.3,
+    "end": 13.619183673469388,
+    "tempo": 1.2,
+    "text": "Thanks, found you online!",
+    "keywords": [
+      "online!"
+    ]
+  },
+  {
+    "file": "reda-04-cta-v2.wav",
+    "start": 13.7,
+    "end": 17.21671201814059,
+    "tempo": 1.1225461613216716,
+    "text": "Want your store online in 48 hours? DM '48H'.",
+    "keywords": [
+      "'48H'.",
+      "48",
+      "hours?"
+    ]
+  }
+]
